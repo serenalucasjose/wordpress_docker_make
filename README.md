@@ -1,2 +1,3 @@
-# wordpress_docker_make
-Simple make script to initialize a dockerized Wordpress site  with an Underscores theme already available to activate
+# Getting Started
+1. Make sure you have the hability to run Makefiles on your computer.
+2. Run "make"
